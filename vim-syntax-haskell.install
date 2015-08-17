@@ -1,0 +1,3 @@
+post_install() {
+	echo ">> You must enable Vim's \"filetype\" plugin and syntax highlighting."
+}
